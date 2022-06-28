@@ -1,0 +1,29 @@
+{% include "header.html" %}
+      <div class="search-container">
+        <form action="{{ url_for('submit') }}" method="POST" class="form-container" id="form" enctype="multipart/form-data">
+          {% if status == 0 %} 
+          <h4>Teks</h4>
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required>KARAWANG, KOMPAS.com - Kasus Demam Berdarah Dengue (DBD) di Karawang pada April 2020 sebanyak 154 orang. Meningkat tiga kali lipat dari Maret 2020. Hal itu dikatakan Pelaksana tugas (Plt) Kepala Dinas Kesehatan Kabupaten Karawang Nanik Jojana. Ia mengatakan, kasus DBD di Karawang sepanjang Januari hingga April 2020 cenderung meningkat. "Januari ada 18, Februari ada 47, Maret 45, dan April sangat tinggi,154. (Sementara) Mei saya belum tahu ada berapa tapi meninggal satu," kata Nanik di Posko Gugus Tugas Percepatan Penanganan Covid-19 Karawang, Senin (11/5/2020).</textarea>
+            </div>
+          </div><br/>
+          {% else %}
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required></textarea>
+            </div>
+          </div><br/>
+          {% endif %}
+          <button class="btn btn-success" type="submit">Ekstrak</button>
+        </form>
+      </div>
+      <!-- <div class="download text-left">
+        <button class="btn btn-success" type="submit" style="margin-left: 10%; margin-top: -14%;">Lakukan Ekstraksi</button>
+      </div> -->
+    </div>
+  </div>
+</div>
+</div>
+<script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+{% include "footer.html" %}

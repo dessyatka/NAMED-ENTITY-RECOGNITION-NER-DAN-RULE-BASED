@@ -1,0 +1,49 @@
+{% include "header.html" %}
+      <!-- <div class="search-container">
+        <form action="{{ url_for('visualize1') }}" method="POST" class="form-container" id="form" enctype="multipart/form-data">
+          <div class="form-group">
+            <label>Input data (.csv)</label>
+            <div class="row d-flex " style="align-items: center;">
+              <div class="col-sm-10">
+                <input type="file" class="form-control" name="file" id="search" aria-describedby="emailHelp"
+                  placeholder="Type keyword" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel">
+              </div>
+              <div class="col-sm-2 text-center">
+                <button type="submit" class="btn btn-primary btn-custom">Process</button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div> -->
+      <div class="search-container">
+        <!-- <form action="{{ url_for('visualize2') }}" method="POST" class="form-container" id="form" enctype="multipart/form-data">
+          == if visualize == 0 == 
+          <h4>Teks</h4>
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required>KARAWANG, KOMPAS.com - Kasus Demam Berdarah Dengue (DBD) di Karawang pada April 2020 sebanyak 154 orang. Meningkat tiga kali lipat dari Maret 2020. Hal itu dikatakan Pelaksana tugas (Plt) Kepala Dinas Kesehatan Kabupaten Karawang Nanik Jojana. Ia mengatakan, kasus DBD di Karawang sepanjang Januari hingga April 2020 cenderung meningkat. "Januari ada 18, Februari ada 47, Maret 45, dan April sangat tinggi,154. (Sementara) Mei saya belum tahu ada berapa tapi meninggal satu," kata Nanik di Posko Gugus Tugas Percepatan Penanganan Covid-19 Karawang, Senin (11/5/2020).</textarea>
+            </div>
+          </div><br/>
+          == else ==
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required></textarea>
+            </div>
+          </div><br/>
+          == endif ==
+          <button class="btn btn-success" type="submit">Process Text</button>
+          
+        </form> -->
+        <a href="/download" ><button class="btn btn-success" id="download">Default Sample visualize</button></a>
+      </div>
+      <!-- <div class="download text-right">
+        <a href="/download" ><button class="btn btn-success" id="download">Sample visualize</button></a>
+      </div> -->
+      <!-- <div class="download text-right">
+        <a href="/visualize1" ><button class="btn btn-info" id="visualize1">Visualize 1 dari file</button></a>
+      </div> -->
+    </div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+{% include "footer.html" %}

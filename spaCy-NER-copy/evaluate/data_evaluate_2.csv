@@ -1,0 +1,1995 @@
+token_0,BIO_tag_0
+SEMARANG,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+menyebut,O
+ ,O
+ada,O
+ ,O
+40,b-korban
+ ,O
+orang,e-korban
+ ,O
+di,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+yang,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+ ,O
+akibat,O
+ ,O
+terserang,O
+ ,O
+penyakit,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,i-penyakit
+ ,O
+dengue,e-penyakit
+ ,O
+(,O
+DBD,b-penyakit
+),O
+ ,O
+selama,O
+ ,O
+kurun,O
+ ,O
+waktu,O
+ ,O
+tiga,O
+ ,O
+bulan,O
+ ,O
+terakhir,O
+.,O
+ ,O
+Ancaman,O
+ ,O
+penyakit,O
+ ,O
+yang,O
+ ,O
+disebabkan,O
+ ,O
+oleh,O
+ ,O
+gigitan,O
+ ,O
+nyamuk,O
+ ,O
+Aedes,O
+ ,O
+aegypty,O
+ ,O
+itu,O
+ ,O
+menunjukkan,O
+ ,O
+angka,O
+ ,O
+kematian,O
+ ,O
+yang,O
+ ,O
+lebih,O
+ ,O
+tinggi,O
+ ,O
+dibandingkan,O
+ ,O
+Covid,O
+-,O
+19,O
+ ,O
+di,O
+ ,O
+periode,O
+ ,O
+yang,O
+ ,O
+sama,O
+.,O
+ ,O
+Kepala,O
+ ,O
+Dinkes,O
+ ,O
+Jateng,O
+ ,O
+Yulianto,O
+ ,O
+Prabowo,O
+ ,O
+menyebutkan,O
+",",O
+ ,O
+di,O
+ ,O
+wilayah,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+ditemukan,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,e-penyakit
+ ,O
+sebanyak,O
+ ,O
+2.115,b-korban
+ ,O
+kasus,e-korban
+ ,O
+DBD,b-lokasi
+ ,O
+yang,O
+ ,O
+tersebar,O
+ ,O
+merata,O
+ ,O
+di,O
+ ,O
+35,O
+ ,O
+kabupaten/kota,O
+.,O
+ ,O
+``,O
+Kasus,O
+ ,O
+paling,O
+ ,O
+banyak,O
+ ,O
+ditemukan,O
+ ,O
+di,O
+ ,O
+Cilacap,b-lokasi
+ ,O
+yakni,O
+ ,O
+216,b-korban
+",",O
+ ,O
+dengan,O
+ ,O
+jumlah,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+ ,O
+3,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Lalu,O
+",",O
+ ,O
+Kota,O
+ ,O
+Semarang,b-lokasi
+ ,O
+dengan,O
+ ,O
+154,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+meninggal,O
+ ,O
+2,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Kemudian,O
+ ,O
+Jepara,O
+ ,O
+dengan,O
+ ,O
+136,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+meninggal,O
+ ,O
+1,b-korban
+ ,O
+orang,e-korban
+",",O
+',O
+ ,O
+ujar,O
+ ,O
+Yulianto,O
+ ,O
+di,O
+ ,O
+Semarang,b-lokasi
+",",O
+ ,O
+Kamis,b-waktu
+ ,O
+(,O
+16/4/2020,b-waktu
+),O
+.,O
+ ,O
+Lebih,O
+ ,O
+lanjut,O
+",",O
+ ,O
+jumlah,O
+ ,O
+warga,O
+ ,O
+yang,O
+ ,O
+terserang,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Banjarnegara,e-lokasi
+ ,O
+mencapai,O
+ ,O
+62,b-korban
+ ,O
+orang,e-korban
+",",O
+ ,O
+3,O
+ ,O
+di,O
+ ,O
+antaranya,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+.,O
+ ,O
+Sedangkan,O
+",",O
+ ,O
+Banyumas,b-lokasi
+ ,O
+terdapat,O
+ ,O
+132,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+3,O
+ ,O
+orang,O
+ ,O
+di,O
+ ,O
+antaranya,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+.,O
+ ,O
+Klaten,b-lokasi
+ ,O
+ada,O
+ ,O
+131,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+3,O
+ ,O
+orang,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+",",O
+ ,O
+Kebumen,b-lokasi
+ ,O
+124,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+4,O
+ ,O
+orang,O
+ ,O
+meninggal,O
+",",O
+ ,O
+Purbalingga,b-lokasi
+ ,O
+99,b-korban
+ ,O
+yang,O
+ ,O
+meninggal,O
+ ,O
+2,O
+ ,O
+orang,O
+",",O
+ ,O
+dan,O
+ ,O
+Brebes,b-lokasi
+ ,O
+dengan,O
+ ,O
+87,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+meninggal,O
+ ,O
+2,O
+ ,O
+orang,O
+.,O
+ ,O
+``,O
+Kasus,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,e-penyakit
+ ,O
+di,O
+ ,O
+Jateng,O
+ ,O
+ini,O
+ ,O
+memang,O
+ ,O
+selalu,O
+ ,O
+terjadi,O
+ ,O
+dan,O
+ ,O
+tersebar,O
+ ,O
+merata,O
+.,O
+ ,O
+Apalagi,O
+ ,O
+kita,O
+ ,O
+ini,O
+ ,O
+hidup,O
+ ,O
+di,O
+ ,O
+negara,O
+ ,O
+tropis,O
+",",O
+ ,O
+yang,O
+ ,O
+menjadi,O
+ ,O
+endemis,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,e-penyakit
+",",O
+',O
+ ,O
+ungkapnya,O
+.,O
+ENDE,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Kepala,O
+ ,O
+Bidang,O
+ ,O
+Pencegahan,O
+ ,O
+dan,O
+ ,O
+Penanggulangan,O
+ ,O
+Penyakit,O
+ ,O
+(,O
+P2P,O
+),O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Ende,e-lokasi
+",",O
+ ,O
+Achmad,O
+ ,O
+Gulung,O
+ ,O
+mengatakan,O
+ ,O
+sebanyak,O
+ ,O
+117,O
+ ,O
+dari,O
+ ,O
+119,b-korban
+ ,O
+penderita,e-korban
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,i-penyakit
+ ,O
+dengue,e-penyakit
+ ,O
+(,O
+DBD,b-penyakit
+),O
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+itu,O
+ ,O
+dinyatakan,O
+ ,O
+sembuh,O
+.,O
+ ,O
+``,O
+Sembuh,O
+ ,O
+117,O
+ ,O
+orang,O
+",",O
+ ,O
+ia,O
+ ,O
+sembuh,O
+ ,O
+semua,O
+.,O
+ ,O
+Kita,O
+ ,O
+sudah,O
+ ,O
+sentuh,O
+ ,O
+dengan,O
+ ,O
+fogging,O
+",",O
+ ,O
+abate,O
+",",O
+ ,O
+lalu,O
+ ,O
+kita,O
+ ,O
+kerja,O
+ ,O
+bakti,O
+ ,O
+dilibatkan,O
+ ,O
+dengan,O
+ ,O
+masyarakat,O
+ ,O
+selama,O
+ ,O
+ini,O
+",",O
+',O
+ ,O
+jelas,O
+ ,O
+Achmad,O
+",",O
+ ,O
+Senin,b-waktu
+ ,O
+(,O
+30/3/2020,b-waktu
+),O
+.,O
+ ,O
+Berdasarkan,O
+ ,O
+rekapitulasi,O
+ ,O
+harian,O
+",",O
+ ,O
+tercatat,O
+ ,O
+sebanyak,O
+ ,O
+119,b-korban
+ ,O
+kasus,e-korban
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Ende,e-lokasi
+ ,O
+sejak,O
+ ,O
+Januari,b-waktu
+ ,O
+hingga,O
+ ,O
+28,O
+ ,O
+Maret,b-waktu
+ ,O
+2020,e-waktu
+.,O
+ ,O
+Dari,O
+ ,O
+jumlah,O
+ ,O
+kasus,O
+ ,O
+tersebut,O
+",",O
+ ,O
+dua,O
+ ,O
+penderita,O
+ ,O
+dinyatakan,O
+ ,O
+meninggal,O
+.,O
+ ,O
+Sementara,O
+ ,O
+sisanya,O
+ ,O
+telah,O
+ ,O
+sembuh,O
+ ,O
+dan,O
+ ,O
+diizinkan,O
+ ,O
+pulang,O
+ ,O
+ke,O
+ ,O
+rumah,O
+ ,O
+masing,O
+-,O
+masing,O
+.,O
+ ,O
+Kini,O
+",",O
+ ,O
+kata,O
+ ,O
+Ahmad,O
+",",O
+ ,O
+tak,O
+ ,O
+ada,O
+ ,O
+lagi,O
+ ,O
+pasien,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+rumah,O
+ ,O
+sakit,O
+ ,O
+ataupun,O
+ ,O
+puskesmas,O
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Ende,e-lokasi
+.,O
+ ,O
+``,O
+DBD,b-penyakit
+ ,O
+sudah,O
+ ,O
+membaik,O
+",",O
+ ,O
+lebih,O
+ ,O
+baik,O
+ ,O
+dari,O
+ ,O
+tahun,O
+ ,O
+lalu,O
+.,O
+ ,O
+Semua,O
+ ,O
+kasus,O
+ ,O
+tentang,O
+ ,O
+DBD,b-penyakit
+ ,O
+sudah,O
+ ,O
+aman,O
+",",O
+',O
+ ,O
+kata,O
+ ,O
+Achmad,O
+.,O
+ ,O
+Informasi,O
+ ,O
+yang,O
+ ,O
+dihimpun,O
+ ,O
+Kompas.com,O
+",",O
+ ,O
+hingga,O
+ ,O
+",",O
+ ,O
+Selasa,b-waktu
+ ,O
+(,O
+31/3/2020,b-waktu
+),O
+",",O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Provinsi,b-lokasi
+ ,O
+NTT,e-lokasi
+ ,O
+mencapai,O
+ ,O
+4.304,b-korban
+ ,O
+jiwa,e-korban
+",",O
+ ,O
+dengan,O
+ ,O
+tingkat,O
+ ,O
+kematian,O
+ ,O
+sebesar,O
+ ,O
+"1,09",O
+ ,O
+persen,O
+ ,O
+atau,O
+ ,O
+47,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Ribuan,O
+ ,O
+penderita,O
+ ,O
+tersebar,O
+ ,O
+di,O
+ ,O
+22,O
+ ,O
+kabupaten,O
+ ,O
+dan,O
+ ,O
+kota,O
+ ,O
+di,O
+ ,O
+NTT,O
+.,O
+ ,O
+Sebanyak,O
+ ,O
+47,b-korban
+ ,O
+warga,e-korban
+ ,O
+yang,O
+ ,O
+meninggal,O
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+Kota,b-lokasi
+ ,O
+Kupang,e-lokasi
+ ,O
+(,O
+6,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Kupang,e-lokasi
+ ,O
+(,O
+4,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Timor,i-lokasi
+ ,O
+Tengah,i-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+(,O
+2,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Belu,e-lokasi
+ ,O
+(,O
+6,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Alor,e-lokasi
+ ,O
+(,O
+4,O
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Lembata,e-lokasi
+ ,O
+(,O
+4,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+dan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Flores,i-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,O
+2,O
+),O
+.,O
+ ,O
+Selanjutnya,O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sikka,e-lokasi
+ ,O
+(,O
+14,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Ende,e-lokasi
+ ,O
+(,O
+2,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Manggarai,e-lokasi
+ ,O
+(,O
+1,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+Manggarai,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,O
+1,b-korban
+ ,O
+orang,e-korban
+),O
+",",O
+ ,O
+dan,O
+ ,O
+Rote,b-lokasi
+ ,O
+Ndao,e-lokasi
+ ,O
+(,O
+1,b-korban
+ ,O
+orang,e-korban
+),O
+.,O
+ ,O
+Untuk,O
+ ,O
+4.304,b-korban
+ ,O
+warga,e-korban
+ ,O
+yang,O
+ ,O
+terjangkit,O
+ ,O
+DBD,b-penyakit
+",",O
+ ,O
+paling,O
+ ,O
+banyak,O
+ ,O
+dari,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sikka,e-lokasi
+",",O
+ ,O
+yakni,O
+ ,O
+1.485,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Kemudian,O
+ ,O
+Kota,b-lokasi
+ ,O
+Kupang,e-lokasi
+ ,O
+462,b-korban
+ ,O
+orang,e-korban
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Belu,e-lokasi
+ ,O
+530,b-korban
+ ,O
+orang,e-korban
+",",O
+ ,O
+dan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Alor,e-lokasi
+ ,O
+382,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Untuk,O
+ ,O
+18,O
+ ,O
+kabupaten,O
+ ,O
+lainnya,O
+",",O
+ ,O
+angka,O
+ ,O
+penderita,O
+ ,O
+di,O
+ ,O
+bawah,O
+ ,O
+200,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sikka,e-lokasi
+ ,O
+sempat,O
+ ,O
+menetapkan,O
+ ,O
+status,O
+ ,O
+kejadian,O
+ ,O
+luar,O
+ ,O
+biasa,O
+ ,O
+(,O
+KLB,O
+),O
+ ,O
+DBD,b-penyakit
+.,O
+ ,O
+Status,O
+ ,O
+KLB,O
+ ,O
+DBD,b-penyakit
+ ,O
+itu,O
+ ,O
+diperpanjang,O
+ ,O
+selama,O
+ ,O
+tiga,O
+ ,O
+kali,O
+.,O
+ ,O
+Belakangan,O
+",",O
+ ,O
+status,O
+ ,O
+KLB,O
+ ,O
+itu,O
+ ,O
+telah,O
+ ,O
+dicabut,O
+ ,O
+karena,O
+ ,O
+jumlah,O
+ ,O
+kasus,O
+ ,O
+yang,O
+ ,O
+menurun,O
+.,O
+SEMARANG,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Sebanyak,O
+ ,O
+17,b-korban
+ ,O
+orang,e-korban
+ ,O
+di,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+meninggal,O
+ ,O
+dunia,O
+ ,O
+akibat,O
+ ,O
+terjangkit,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,e-penyakit
+ ,O
+(,O
+DB,b-penyakit
+),O
+.,O
+ ,O
+Data,O
+ ,O
+tersebut,O
+ ,O
+mengacu,O
+ ,O
+pada,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+(,O
+Dinkes,O
+),O
+ ,O
+Jateng,O
+ ,O
+sejak,O
+ ,O
+Januari,b-waktu
+ ,O
+hingga,O
+ ,O
+awal,O
+ ,O
+Maret,b-waktu
+ ,O
+2020,e-waktu
+.,O
+ ,O
+Angka,O
+ ,O
+kematian,O
+ ,O
+tersebut,O
+ ,O
+cenderung,O
+ ,O
+menurun,O
+ ,O
+sekitar,O
+ ,O
+"1,39",O
+ ,O
+persen,O
+ ,O
+dibanding,O
+ ,O
+triwulan,O
+ ,O
+pertama,O
+ ,O
+tahun,O
+ ,O
+2019,O
+ ,O
+yang,O
+ ,O
+mencapai,O
+ ,O
+26,b-korban
+ ,O
+orang,e-korban
+ ,O
+per,O
+ ,O
+100,O
+ ,O
+ribu,O
+ ,O
+pasien,O
+.,O
+ ,O
+Berdasarkan,O
+ ,O
+data,O
+ ,O
+Dinkes,O
+ ,O
+Jateng,O
+ ,O
+per,O
+ ,O
+10,b-waktu
+ ,O
+Maret,i-waktu
+ ,O
+2020,e-waktu
+ ,O
+pukul,O
+ ,O
+19,O
+ ,O
+WIB,O
+",",O
+ ,O
+dari,O
+ ,O
+total,O
+ ,O
+35,O
+ ,O
+kota/,O
+ ,O
+kabupaten,O
+ ,O
+tercatat,O
+ ,O
+ada,O
+ ,O
+total,O
+ ,O
+1.227,b-korban
+ ,O
+pasien,e-korban
+.,O
+ ,O
+Daerah,O
+ ,O
+tertinggi,O
+ ,O
+penderita,O
+ ,O
+DB,O
+ ,O
+yakni,O
+ ,O
+Cilacap,b-lokasi
+ ,O
+dengan,O
+ ,O
+146,b-korban
+ ,O
+pasien,e-korban
+ ,O
+dan,O
+ ,O
+2,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+.,O
+ ,O
+Kemudian,O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Jepara,e-lokasi
+ ,O
+104,b-korban
+ ,O
+pasien,e-korban
+ ,O
+dan,O
+ ,O
+1,b-korban
+ ,O
+meninggal,e-korban
+ ,O
+dunia,O
+",",O
+ ,O
+Kota,b-lokasi
+ ,O
+Semarang,e-lokasi
+ ,O
+85,b-korban
+ ,O
+pasien,e-korban
+ ,O
+dan,O
+ ,O
+2,b-korban
+ ,O
+meninggal,e-korban
+ ,O
+dunia,O
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Tegal,e-lokasi
+ ,O
+76,b-korban
+ ,O
+pasien,e-korban
+ ,O
+dan,O
+ ,O
+1,b-korban
+ ,O
+meninggal,e-korban
+ ,O
+dunia,O
+",",O
+ ,O
+disusul,O
+ ,O
+Brebes,b-lokasi
+ ,O
+dan,O
+ ,O
+Kebumen,b-lokasi
+ ,O
+dengan,O
+ ,O
+61,b-korban
+ ,O
+pasien,e-korban
+ ,O
+dan,O
+ ,O
+1,b-korban
+ ,O
+meninggal,e-korban
+ ,O
+dunia,O
+.,O
+BEKASI,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Berdasarkan,O
+ ,O
+catatan,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bekasi,e-lokasi
+ ,O
+sepanjang,O
+ ,O
+Januari,b-waktu
+ ,O
+hingga,O
+ ,O
+Februari,b-waktu
+ ,O
+2020,e-waktu
+ ,O
+ini,O
+ ,O
+ada,O
+ ,O
+51,b-korban
+ ,O
+kasus,e-korban
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,i-penyakit
+ ,O
+dengue,e-penyakit
+ ,O
+(,O
+DBD,b-penyakit
+),O
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bekasi,e-lokasi
+.,O
+ ,O
+Kepala,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bekasi,e-lokasi
+",",O
+ ,O
+Sri,O
+ ,O
+Enny,O
+ ,O
+mengatakan,O
+",",O
+ ,O
+jumlah,O
+ ,O
+DBD,b-penyakit
+ ,O
+tersebut,O
+ ,O
+menurun,O
+ ,O
+dari,O
+ ,O
+sebelumnya,O
+ ,O
+237,b-korban
+ ,O
+jumlah,e-korban
+ ,O
+kasus,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bekasi,e-lokasi
+.,O
+ ,O
+?,O
+Alhamdulillah,O
+ ,O
+terjadi,O
+ ,O
+penurunan,O
+ ,O
+kasus,O
+ ,O
+dari,O
+ ,O
+tahun,O
+ ,O
+yang,O
+ ,O
+lalu,O
+ ,O
+di,O
+ ,O
+bulan,O
+ ,O
+yang,O
+ ,O
+sama,O
+",",O
+?,O
+ ,O
+ucap,O
+ ,O
+Sri,O
+ ,O
+dalam,O
+ ,O
+keterangan,O
+ ,O
+tertulisnya,O
+",",O
+ ,O
+Kamis,b-waktu
+ ,O
+(,O
+12/3/2020,b-waktu
+),O
+.,O
+ ,O
+Sri,O
+ ,O
+mendetailkan,O
+",",O
+ ,O
+pada,O
+ ,O
+tahun,O
+ ,O
+2019,b-waktu
+ ,O
+berjumlah,O
+ ,O
+237,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+bulan,O
+ ,O
+Januari,b-waktu
+ ,O
+ada,O
+ ,O
+85,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+bulan,O
+ ,O
+Februari,b-waktu
+ ,O
+ada,O
+ ,O
+152,b-korban
+ ,O
+kasus,e-korban
+ ,O
+DBD,b-penyakit
+.,O
+ ,O
+Sementara,O
+",",O
+ ,O
+awal,O
+ ,O
+tahun,O
+ ,O
+2020,b-waktu
+ ,O
+ini,O
+ ,O
+berjumlah,O
+ ,O
+51,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+bulan,O
+ ,O
+Januari,b-waktu
+ ,O
+ada,O
+ ,O
+30,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+21,b-korban
+ ,O
+kasus,e-korban
+ ,O
+DBD,b-penyakit
+.,O
+ ,O
+Ia,O
+ ,O
+mengatakan,O
+",",O
+ ,O
+jumlah,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,O
+ ,O
+awal,O
+ ,O
+tahun,O
+ ,O
+2020,b-waktu
+ ,O
+ini,O
+ ,O
+yang,O
+ ,O
+terbanyak,O
+ ,O
+ada,O
+ ,O
+di,O
+ ,O
+Kecamatan,b-lokasi
+ ,O
+Setu,e-lokasi
+",",O
+ ,O
+Kecamatan,b-lokasi
+ ,O
+Tarumajaya,e-lokasi
+ ,O
+dan,O
+ ,O
+Kecamatan,b-lokasi
+ ,O
+Cibarusah,e-lokasi
+.,O
+ ,O
+Rata,O
+-,O
+rata,O
+ ,O
+kasus,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,O
+ ,O
+menyasar,O
+ ,O
+masyarakat,O
+ ,O
+dengan,O
+ ,O
+usia,O
+ ,O
+rata,O
+-,O
+rata,O
+ ,O
+12,O
+ ,O
+hingga,O
+ ,O
+44,O
+ ,O
+tahun,O
+.,O
+ ,O
+Sri,O
+ ,O
+mengatakan,O
+",",O
+ ,O
+banyaknya,O
+ ,O
+jumlah,O
+ ,O
+kasus,O
+ ,O
+DBD,b-penyakit
+ ,O
+ini,O
+ ,O
+disebabkan,O
+ ,O
+oleh,O
+ ,O
+beberapa,O
+ ,O
+faktor,O
+.,O
+ ,O
+Misalnya,O
+",",O
+ ,O
+peralihan,O
+ ,O
+dari,O
+ ,O
+musim,O
+ ,O
+hujan,O
+ ,O
+ke,O
+ ,O
+musim,O
+ ,O
+panas,O
+ ,O
+yang,O
+ ,O
+kerap,O
+ ,O
+terjadi,O
+ ,O
+belakangan,O
+ ,O
+ini,O
+.,O
+ ,O
+?,O
+Lalu,O
+ ,O
+kurangnya,O
+ ,O
+kesadaran,O
+ ,O
+masyarakat,O
+ ,O
+untuk,O
+ ,O
+tidak,O
+ ,O
+membuang,O
+ ,O
+sampah,O
+ ,O
+sembarangan,O
+ ,O
+itu,O
+ ,O
+juga,O
+ ,O
+dapat,O
+ ,O
+berdampak,O
+ ,O
+besar,O
+ ,O
+(,O
+pada,O
+ ,O
+DBD,b-penyakit
+),O
+",",O
+?,O
+ ,O
+ucapnya,O
+.,O
+ ,O
+Oleh,O
+ ,O
+karena,O
+ ,O
+itu,O
+",",O
+ ,O
+untuk,O
+ ,O
+menekan,O
+ ,O
+angka,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bekasi,e-lokasi
+",",O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+telah,O
+ ,O
+melakukan,O
+ ,O
+upaya,O
+ ,O
+penanggulangan,O
+.,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Korban,O
+ ,O
+meninggal,O
+ ,O
+karena,O
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,i-penyakit
+ ,O
+dengue,e-penyakit
+ ,O
+(,O
+ ,O
+DBD,b-penyakit
+),O
+ ,O
+di,O
+ ,O
+Bogor,b-lokasi
+ ,O
+bertambah,O
+.,O
+ ,O
+Seorang,O
+ ,O
+warga,O
+ ,O
+Bogor,b-lokasi
+ ,O
+lainnya,O
+ ,O
+meninggal,O
+.,O
+ ,O
+Sejak,O
+ ,O
+awal,O
+ ,O
+2020,b-waktu
+",",O
+ ,O
+korban,O
+ ,O
+tewas,O
+ ,O
+akibat,O
+ ,O
+DBD,b-penyakit
+ ,O
+di,O
+ ,O
+Bogor,b-lokasi
+ ,O
+sudah,O
+ ,O
+lima,O
+ ,O
+orang,O
+.,O
+ ,O
+``,O
+Jumlah,O
+ ,O
+lima,O
+ ,O
+orang,O
+ ,O
+warga,O
+ ,O
+yang,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+ ,O
+itu,O
+",",O
+ ,O
+selama,O
+ ,O
+periode,O
+ ,O
+Januari,b-waktu
+ ,O
+hingga,O
+ ,O
+Maret,b-waktu
+",",O
+ ,O
+sampai,O
+ ,O
+Kamis,O
+ ,O
+hari,O
+ ,O
+ini,O
+.,O
+ ,O
+Semuanya,O
+ ,O
+masih,O
+ ,O
+dalam,O
+ ,O
+usia,O
+ ,O
+anak,O
+",",O
+',O
+ ,O
+kata,O
+ ,O
+Pelaksana,O
+ ,O
+tugas,O
+ ,O
+(,O
+Plt,O
+.,O
+),O
+ ,O
+Kepala,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Kota,b-lokasi
+ ,O
+Bogor,e-lokasi
+ ,O
+Sri,O
+ ,O
+Nowo,O
+ ,O
+Retno,O
+",",O
+ ,O
+di,O
+ ,O
+Balai,O
+ ,O
+Kota,b-lokasi
+ ,O
+Bogor,e-lokasi
+",",O
+ ,O
+Kamis,b-waktu
+ ,O
+(,O
+12/3/2020,b-waktu
+),O
+",",O
+ ,O
+seperti,O
+ ,O
+dikutip,O
+ ,O
+Antara,O
+.,O
+ ,O
+Menurut,O
+ ,O
+Retno,O
+",",O
+ ,O
+panggilan,O
+ ,O
+Sri,O
+ ,O
+Nowo,O
+ ,O
+Retno,O
+",",O
+ ,O
+satu,O
+ ,O
+orang,O
+ ,O
+lagi,O
+ ,O
+anak,O
+ ,O
+yang,O
+ ,O
+meninggal,O
+ ,O
+dunia,O
+ ,O
+pada,O
+ ,O
+Kamis,O
+ ,O
+ini,O
+",",O
+ ,O
+adalah,O
+ ,O
+warga,O
+ ,O
+Kelurahan,b-lokasi
+ ,O
+Katulampa,e-lokasi
+",",O
+ ,O
+Bogor,b-lokasi
+ ,O
+Timur,e-lokasi
+",",O
+ ,O
+Kota,b-lokasi
+ ,O
+Bogor,e-lokasi

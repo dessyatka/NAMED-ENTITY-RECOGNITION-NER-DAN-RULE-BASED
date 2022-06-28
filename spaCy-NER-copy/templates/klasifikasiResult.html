@@ -1,0 +1,154 @@
+{% include "header.html" %}
+      {% if word %}
+      <div class="heading-info text-center">
+        <h5>{{ word }}</h5>
+      </div>
+      {% endif %}
+      <div class="search-container">
+        <form action="{{ url_for('classifyProses') }}" method="POST" class="form-container" id="form" enctype="multipart/form-data">
+          {% if status == 0 %} 
+          <h4>Teks</h4>
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required>KARAWANG, KOMPAS.com - Kasus Demam Berdarah Dengue (DBD) di Karawang pada April 2020 sebanyak 154 orang. Meningkat tiga kali lipat dari Maret 2020. Hal itu dikatakan Pelaksana tugas (Plt) Kepala Dinas Kesehatan Kabupaten Karawang Nanik Jojana. Ia mengatakan, kasus DBD di Karawang sepanjang Januari hingga April 2020 cenderung meningkat. "Januari ada 18, Februari ada 47, Maret 45, dan April sangat tinggi,154. (Sementara) Mei saya belum tahu ada berapa tapi meninggal satu," kata Nanik di Posko Gugus Tugas Percepatan Penanganan Covid-19 Karawang, Senin (11/5/2020).</textarea>
+            </div>
+          </div><br/>
+          {% else %}
+          <div class="form-container field">
+            <div class="form-group">
+              <textarea class="form-control" name="text" rows="7" placeholder="Alamat yang ingin diekstraksi..." required></textarea>
+            </div>
+          </div><br/>
+          {% endif %}
+          <button class="btn btn-success" type="submit">Eksekusi</button>
+        </form>
+      </div>
+      <!-- {% if data %}
+        {{ data.lokasi }}
+        {{ data.korban }}
+        {{ data.penyakit }}
+        {{ data.waktu }}
+      {% endif %} -->
+      <h2>Lokasi</h2>
+      
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Kata</th>
+            <th scope="col">Index Mulai</th>
+            <th scope="col">Index Akhir</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ent in ents %}
+            {% if ent[3] == 'lokasi' %}
+            <tr>
+              <th>{{ ent[0] }}</th>
+              <td>{{ ent[1] }}</td>
+              <td>{{ ent[2] }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h2>Korban</h2>
+      
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Kata</th>
+            <th scope="col">Index Mulai</th>
+            <th scope="col">Index Akhir</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ent in ents %}
+            {% if ent[3] == 'korban' %}
+            <tr>
+              <th>{{ ent[0] }}</th>
+              <td>{{ ent[1] }}</td>
+              <td>{{ ent[2] }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h2>Penyakit</h2>
+      
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Kata</th>
+            <th scope="col">Index Mulai</th>
+            <th scope="col">Index Akhir</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ent in ents %}
+            {% if ent[3] == 'penyakit' %}
+            <tr>
+              <th>{{ ent[0] }}</th>
+              <td>{{ ent[1] }}</td>
+              <td>{{ ent[2] }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h2>Waktu</h2>
+      
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Kata</th>
+            <th scope="col">Index Mulai</th>
+            <th scope="col">Index Akhir</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ent in ents %}
+            {% if ent[3] == 'waktu' %}
+            <tr>
+              <th>{{ ent[0] }}</th>
+              <td>{{ ent[1] }}</td>
+              <td>{{ ent[2] }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h2>Keseluruhan</h2>
+      
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Kata</th>
+            <th scope="col">Index Mulai</th>
+            <th scope="col">Index Akhir</th>
+            <th scope="col">Tag</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for ent in ents %}
+            <tr>
+              <th>{{ ent[0] }}</th>
+              <td>{{ ent[1] }}</td>
+              <td>{{ ent[2] }}</td>
+              <td>{{ ent[3] }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <!-- <div class="download text-left">
+        <button class="btn btn-success" type="submit" style="margin-left: 10%; margin-top: -14%;">Lakukan Ekstraksi</button>
+      </div> -->
+    </div>
+  </div>
+</div>
+</div>
+<script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+{% include "footer.html" %}

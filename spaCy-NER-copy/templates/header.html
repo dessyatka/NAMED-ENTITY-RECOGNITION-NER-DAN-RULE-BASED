@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <!-- datatables CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" />
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.bootstrap4.min.css" />
+
+  <!-- styles CSS -->
+  <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" />
+
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/f2ee4a9353.js" crossorigin="anonymous"></script>
+  <title>NER - Tropical Disease</title>
+
+  <!-- gmaps api -->
+  {% if visualize == 1 %}
+    {{ sndmap.js }}
+  {% endif %}
+</head>
+
+<body>
+<div class="loading" id="img" style="display: none;">
+  <img src="{{ url_for('static', filename='loading.gif')}}" id='loading' />"
+</div>
+<div class="container-fluid">
+<div class="row">
+  <div class="col-md-3">
+    <div class="container p-0">
+      <div class="sidebar">
+        <img class="logo" alt="LOGO" src="{{ url_for('static', filename='usulogo.png')}}"w/>
+        <a href="/" >
+          <button class="btn {{ 'btn-primary' if data == '/' else '' }} inline-block" >Home</button>
+        </a>
+        <br/>
+        <a href="/extraction" >
+          <button class="btn {{ 'btn-primary' if data == '/extraction' else '' }} inline-block" >Ekstraksi</button>
+        </a>
+        <br/>
+        <a href="/classification">
+          <button class="btn {{ 'btn-primary' if data == '/classification' else '' }} inline-block">Klasifikasi</button>
+        </a>
+        <br/>
+        <a href="/visualization">
+          <button class="btn {{ 'btn-primary' if data == '/visualization' else '' }} inline-block">Visualisasi</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <div class="container">
+      <div class="heading-info text-center">
+        <h2>EKSTRAKSI INFORMASI PENYAKIT TROPIS DI INDONESIA
+          </h2>
+      </div>

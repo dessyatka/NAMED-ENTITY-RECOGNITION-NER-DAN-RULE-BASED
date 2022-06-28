@@ -1,0 +1,95 @@
+{% include "header.html" %}
+      <div class="search-container">
+        <form class="form-container" id="form">
+          <div class="form-group">
+            <label>Input data (.csv)</label>
+            <div class="row d-flex " style="align-items: center;">
+              <div class="col-sm-10">
+                <input type="file" class="form-control" name="file" id="search" aria-describedby="emailHelp"
+                  placeholder="Type keyword" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel">
+              </div>
+              <div class="col-sm-2 text-center">
+                <button type="submit" class="btn btn-primary btn-custom">Process</button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <h4>Tabel Presisi, Recall, F1-Score</h4><br/>
+      <table class="table table-hovered" style="width:600px">
+        <thead>
+          <th>-</th>
+          <th>precision</th>
+          <th>recall</th>
+          <th>f1-score</th>
+          <th>support</th>
+        </thead>
+        <tbody id="table">
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+<script type="text/javascript">
+  $('#form').submit(function (e) {
+    e.preventDefault();
+    var form_data = new FormData($('form')[0]);
+    var file = $('input[name=file]').val();
+
+    $('#img').show(); //<----here
+    if (file == "") {
+      alert("Data tidak boleh kosong");
+      $('#img').hide();
+      return false
+    }
+    function array_move(arr, old_index, new_index) {
+      if (new_index >= arr.length) {
+        var k = new_index - arr.length + 1;
+        while (k--) {
+          arr.push(undefined);
+        }
+      }
+      arr.splice(new_index, 0, arr.splice(old_index, 1)[0]);
+      return arr; // for testing
+    };
+    $.ajax({
+      type: 'POST',
+      url: '/classification_process',
+      contentType: false,
+      processData: false,
+      data: form_data,
+      success: function (res) {
+        //TODO Success 
+        var result = [];
+        if(res.message !== 'Success'){
+          alert(res.message);
+          $('#img').hide();
+          return false;
+        }
+        $.each(res.data, function (index, item) {
+          console.log(index,item);
+          if(index!=='accuracy'){
+            result.push('<tr><td>'+index+'</td><td>'+item['precision'].toFixed(2)+'</td><td>'+
+            item['recall'].toFixed(2)+'</td><td>'+item['f1-score'].toFixed(2)+'</td><td>'+
+            parseInt(item['support'])+ '</td></tr>');
+          }else{
+            result.push('<tr><td colspan="3">'+index+'</td><td>'+item.toFixed(2)+'</td><td>'+parseInt(res.data['weighted avg']['support'])+'</td></tr>');
+          }
+        });
+
+        result = array_move(result, 0, 2);
+        result = array_move(result, 0, 3);
+        result = array_move(result, 1, 2);
+        
+        $('#table').html(result.join(''));
+        $('#img').hide();
+      },
+      error: function (err) {
+        $('#img').hide();
+        console.log(err)
+      }
+    });
+  });
+</script>
+{% include "footer.html" %}

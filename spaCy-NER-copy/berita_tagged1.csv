@@ -1,0 +1,311 @@
+token_0,BIO_tag_0
+SUMEDANG,b-lokasi
+",",o
+ ,o
+KOMPAS.com,o
+ ,o
+-,o
+ ,o
+Kasus,o
+ ,o
+Demam,b-penyakit
+ ,o
+Berdarah,i-penyakit
+ ,o
+Dengue,e-penyakit
+ ,o
+(,o
+ ,o
+DBD,b-penyakit
+),o
+ ,o
+di,o
+ ,o
+Kabupaten,b-lokasi
+ ,o
+Sumedang,e-lokasi
+",",o
+ ,o
+Jawa,b-lokasi
+ ,o
+Barat,e-lokasi
+",",o
+ ,o
+lebih,o
+ ,o
+tinggi,o
+ ,o
+dari,o
+ ,o
+kasus,o
+ ,o
+virus,b-penyakit
+ ,o
+corona,e-penyakit
+ ,o
+atau,o
+ ,o
+Covid,b-penyakit
+-,o
+19,e-penyakit
+.,o
+ ,o
+Data,o
+ ,o
+dari,o
+ ,o
+Dinas,o
+ ,o
+Kesehatan,o
+ ,o
+Kabupaten,b-lokasi
+ ,o
+Sumedang,e-lokasi
+",",o
+ ,o
+sejak,o
+ ,o
+Januari,o
+ ,o
+hingga,o
+ ,o
+April,o
+ ,o
+2020,o
+",",o
+ ,o
+tercatat,o
+ ,o
+sudah,o
+ ,o
+ada,o
+ ,o
+254,o
+ ,o
+kasus,o
+ ,o
+DBD,b-penyakit
+",",o
+ ,o
+dengan,o
+ ,o
+dua,o
+ ,o
+kematian,o
+.,o
+ ,o
+Sedangkan,o
+",",o
+ ,o
+kasus,o
+ ,o
+Covid,b-penyakit
+-,o
+19,e-penyakit
+ ,o
+di,o
+ ,o
+Kabupaten,b-lokasi
+ ,o
+Sumedang,e-lokasi
+",",o
+ ,o
+hingga,o
+ ,o
+saat,o
+ ,o
+ini,o
+",",o
+ ,o
+Minggu,o
+ ,o
+(,o
+30/5/2020,o
+),o
+",",o
+ ,o
+sumedang,b-lokasi
+ ,o
+ada,o
+ ,o
+12,o
+ ,o
+kasus,o
+",",o
+ ,o
+dengan,o
+ ,o
+nol,o
+ ,o
+kematian,o
+.,o
+ ,o
+Kepala,o
+ ,o
+Bidang,o
+ ,o
+Pengendalian,o
+ ,o
+dan,o
+ ,o
+Pemberantasan,o
+ ,o
+Penyakit,o
+ ,o
+(,o
+P2P,o
+),o
+ ,o
+Dinas,o
+ ,o
+Kesehatan,o
+ ,o
+Kabupaten,b-lokasi
+ ,o
+Sumedang,e-lokasi
+ ,o
+dr,o
+.,o
+ ,o
+Reny,b-nama
+ ,o
+K,i-nama
+ ,o
+Anton,e-nama
+ ,o
+mengatakan,o
+",",o
+ ,o
+kasus,o
+ ,o
+DBD,b-penyakit
+ ,o
+tertinggi,o
+ ,o
+terjadi,o
+ ,o
+pada,o
+ ,o
+Maret,o
+ ,o
+dengan,o
+ ,o
+114,o
+ ,o
+kasus,o
+.,o
+ ,o
+``,o
+Sebelumnya,o
+ ,o
+pada,o
+ ,o
+Februari,o
+ ,o
+ada,o
+ ,o
+2,o
+ ,o
+orang,o
+ ,o
+meninggal,o
+ ,o
+dunia,o
+ ,o
+karena,o
+ ,o
+DBD,b-penyakit
+",",o
+'',o
+ ,o
+ujar,o
+ ,o
+Reny,b-nama
+ ,o
+kepada,o
+ ,o
+Kompas.com,o
+ ,o
+melalui,o
+ ,o
+pesan,o
+ ,o
+singkat,o
+",",o
+ ,o
+Minggu,o
+ ,o
+(,o
+31/5/2020,o
+),o
+.,o
+ ,o
+Reny,b-nama
+ ,o
+menuturkan,o
+",",o
+ ,o
+kasus,o
+ ,o
+DBD,b-penyakit
+ ,o
+paling,o
+ ,o
+tinggi,o
+ ,o
+terdapat,o
+ ,o
+di,o
+ ,o
+tiga,o
+ ,o
+wilayah,o
+ ,o
+kecamatan,b-lokasi
+ ,o
+yaitu,o
+ ,o
+di,o
+ ,o
+Sumedang,b-lokasi
+ ,o
+Selatan,e-lokasi
+",",o
+ ,o
+Tanjungsari,b-lokasi
+",",o
+ ,o
+dan,o
+ ,o
+Jatinangor,b-lokasi
+.,o
+ ,o
+Reny,b-nama
+ ,o
+menyebutkan,o
+",",o
+ ,o
+Dinas,o
+ ,o
+Kesehatan,o
+ ,o
+Kabupaten,o
+ ,o
+Sumedang,b-lokasi
+ ,o
+terus,o
+ ,o
+berupaya,o
+ ,o
+menurunkan,o
+ ,o
+angka,o
+ ,o
+kematian,o
+ ,o
+akibat,o
+ ,o
+DBD,b-penyakit
+ ,o
+ini,o
+.,o

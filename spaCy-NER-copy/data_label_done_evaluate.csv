@@ -1,0 +1,129 @@
+token_0,BIO_tag_0
+Sedikitnya,o
+ ,O
+ada,O
+ ,O
+10,o
+ ,O
+provinsi,o
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+dengan,O
+ ,O
+jumlah,o
+ ,O
+kasus,o
+ ,O
+demam,b-penyakit
+ ,O
+berdarah,e-penyakit
+ ,O
+tertinggi,o
+",",O
+ ,O
+antara,O
+ ,O
+lain,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+dengan,O
+ ,O
+10.594,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Bali,b-lokasi
+ ,O
+8.93,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Nusa,b-lokasi
+ ,O
+Tenggara,i-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,o
+NTT,b-lokasi
+),o
+ ,O
+5.432,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+5.104,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Lampung,b-lokasi
+ ,O
+4.983,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Nusa,b-lokasi
+ ,O
+Tenggara,i-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,o
+NTB,b-lokasi
+),o
+ ,O
+3.796,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+DKI,b-lokasi
+ ,O
+Jakarta,e-lokasi
+ ,O
+3.628,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+2.846,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+DI,O
+ ,O
+Yogyakarta,b-lokasi
+ ,O
+2.72,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+dan,O
+ ,O
+Riau,b-lokasi
+ ,O
+2.143,b-korban
+ ,O
+kasus,e-korban
+.,o

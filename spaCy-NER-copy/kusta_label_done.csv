@@ -1,0 +1,4103 @@
+token_0,BIO_tag_0
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Kasus,O
+ ,O
+baru,O
+ ,O
+Berdasarakan,O
+ ,O
+data,O
+ ,O
+dari,O
+ ,O
+Direktorat,O
+ ,O
+Jenderal,O
+ ,O
+Pencegahan,O
+ ,O
+dan,O
+ ,O
+Pengendalian,O
+ ,O
+Penyakit,O
+ ,O
+Kemenkes,O
+",",O
+ ,O
+berikut,O
+ ,O
+kasus,O
+ ,O
+baru,O
+ ,O
+kusta,b-penyakit
+ ,O
+tiap,O
+ ,O
+provinsi,O
+ ,O
+berdasarkan,O
+ ,O
+jenis,O
+ ,O
+kelamin,O
+ ,O
+per,O
+ ,O
+April,O
+ ,O
+2018,O
+:,O
+ ,O
+Aceh,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+188,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+136,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sumatera,b-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+97,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+61,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sumatera,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+27,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+26,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Riau,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+93,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+43,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Jambi,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+34,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+26,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sumatera,b-lokasi
+ ,O
+Selatan,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+186,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+95,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Bengkulu,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+17,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+9,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Lampung,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+90,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+74,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kepulauan,b-lokasi
+ ,O
+Bangka,i-lokasi
+ ,O
+Belitung,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+28,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+21,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kepulauan,b-lokasi
+ ,O
+Riau,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+12,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+18,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+DKI,b-lokasi
+ ,O
+Jakarta,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+205,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+95,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Jawa,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+1.154,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+659,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Jawa,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+1.103,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+541,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+DI,b-lokasi
+ ,O
+Yogyakarta,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+64,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+30,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+2.033,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+1.34,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Banten,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+597,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+345,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Bali,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+51,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+19,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Nusa,b-lokasi
+ ,O
+Tenggara,i-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+135,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+86,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Nusa,b-lokasi
+ ,O
+Tenggara,i-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+266,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+139,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+42,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+19,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+28,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+10,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Selatan,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+73,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+25,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+87,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+66,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+27,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+25,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+277,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+177,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+211,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+131,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Selatan,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+653,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+438,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Tenggara,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+208,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+129,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Gorontalo,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+128,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+86,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+120,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+75,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Maluku,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+282,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+146,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Maluku,b-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+342,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+216,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Papua,b-lokasi
+ ,O
+Barat,e-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+474,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+314,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+Papua,b-lokasi
+ ,O
+(,O
+laki,O
+-,O
+laki,O
+ ,O
+540,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+perempuan,O
+ ,O
+428,b-korban
+ ,O
+kasus,e-korban
+),O
+.,O
+DEPOK,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Kota,O
+ ,O
+Depok,b-lokasi
+ ,O
+mencatat,O
+ ,O
+sudah,O
+ ,O
+ada,O
+ ,O
+33,b-korban
+ ,O
+kasus,e-korban
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+yang,O
+ ,O
+terjadi,O
+ ,O
+di,O
+ ,O
+wilayah,O
+ ,O
+Depok,b-lokasi
+ ,O
+selama,O
+ ,O
+tahun,O
+ ,O
+2017,O
+.,O
+ ,O
+Dari,O
+ ,O
+33,b-korban
+ ,O
+kasus,e-korban
+",",O
+ ,O
+dua,O
+ ,O
+dialami,O
+ ,O
+oleh,O
+ ,O
+anak,O
+-,O
+anak,O
+.,O
+ ,O
+Kepala,O
+ ,O
+Bidang,O
+ ,O
+Pencegahan,O
+",",O
+ ,O
+Pengendalian,O
+ ,O
+Penyakit,O
+ ,O
+Menular,O
+ ,O
+(,O
+P3M,O
+),O
+ ,O
+Dinkes,O
+ ,O
+Kota,O
+ ,O
+Depok,b-lokasi
+",",O
+ ,O
+Rani,O
+ ,O
+Martina,O
+ ,O
+mengatakan,O
+",",O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Depok,b-lokasi
+ ,O
+dalam,O
+ ,O
+tiga,O
+ ,O
+tahun,O
+ ,O
+belakangan,O
+ ,O
+ini,O
+ ,O
+cenderung,O
+ ,O
+naik,O
+ ,O
+turun,O
+.,O
+ ,O
+Pada,O
+ ,O
+tahun,O
+ ,O
+2015,O
+",",O
+ ,O
+jumlahnya,O
+ ,O
+mencapai,O
+ ,O
+57,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+meningkat,O
+ ,O
+menjadi,O
+ ,O
+97,b-korban
+ ,O
+kasus,e-korban
+ ,O
+pada,O
+ ,O
+tahun,O
+ ,O
+2016,O
+.,O
+ ,O
+``,O
+Untuk,O
+ ,O
+tahun,O
+ ,O
+2017,O
+",",O
+ ,O
+diharapkan,O
+ ,O
+berhenti,O
+ ,O
+pada,O
+ ,O
+angka,O
+ ,O
+33,b-korban
+ ,O
+kasus,e-korban
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Rani,O
+ ,O
+saat,O
+ ,O
+dihubungi,O
+",",O
+ ,O
+Sabtu,O
+ ,O
+(,O
+21/10/2017,b-waktu
+),O
+.,O
+ ,O
+Menurut,O
+ ,O
+Rani,O
+",",O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+bukan,O
+ ,O
+penyakit,O
+ ,O
+keturunan,O
+.,O
+ ,O
+Tapi,O
+ ,O
+penyakit,O
+ ,O
+yang,O
+ ,O
+secara,O
+ ,O
+medis,O
+ ,O
+disebabkan,O
+ ,O
+bakteri,O
+ ,O
+mycobaterium,O
+ ,O
+leprae,O
+ ,O
+yang,O
+ ,O
+menyerang,O
+ ,O
+saraf,O
+ ,O
+tepi,O
+ ,O
+kulit,O
+ ,O
+dan,O
+ ,O
+organ,O
+ ,O
+tubuh,O
+.,O
+JAKARTA,b-lokasi
+",",O
+ ,O
+KOMPAS,O
+ ,O
+?,O
+ ,O
+Kasus,O
+ ,O
+baru,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+mencemaskan,O
+.,O
+ ,O
+Selain,O
+ ,O
+muncul,O
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+yang,O
+ ,O
+belum,O
+ ,O
+berstatus,O
+ ,O
+eliminasi,O
+",",O
+ ,O
+kasus,O
+ ,O
+baru,O
+ ,O
+penyakit,O
+ ,O
+itu,O
+ ,O
+ditemukan,O
+ ,O
+di,O
+ ,O
+wilayah,O
+ ,O
+berstatus,O
+ ,O
+eliminasi,O
+.,O
+ ,O
+Pencarian,O
+ ,O
+kasus,O
+ ,O
+secara,O
+ ,O
+aktif,O
+ ,O
+harus,O
+ ,O
+dilakukan,O
+ ,O
+agar,O
+ ,O
+cepat,O
+ ,O
+ditemukan,O
+ ,O
+dan,O
+ ,O
+segera,O
+ ,O
+diobati,O
+.,O
+ ,O
+Hal,O
+ ,O
+itu,O
+ ,O
+diungkapkan,O
+ ,O
+Direktur,O
+ ,O
+Jenderal,O
+ ,O
+Pencegahan,O
+ ,O
+dan,O
+ ,O
+Pengendalian,O
+ ,O
+Penyakit,O
+ ,O
+Kementerian,O
+ ,O
+Kesehatan,O
+ ,O
+Mohamad,O
+ ,O
+Subuh,O
+ ,O
+saat,O
+ ,O
+temu,O
+ ,O
+media,O
+ ,O
+dalam,O
+ ,O
+peringatan,O
+ ,O
+Hari,O
+ ,O
+Kusta,b-penyakit
+ ,O
+Sedunia,O
+",",O
+ ,O
+Jumat,O
+ ,O
+(,O
+27/1,b-waktu
+),O
+",",O
+ ,O
+di,O
+ ,O
+Jakarta,b-lokasi
+.,O
+ ,O
+Secara,O
+ ,O
+nasional,O
+",",O
+ ,O
+Indonesia,O
+ ,O
+mencapai,O
+ ,O
+status,O
+ ,O
+eliminasi,O
+ ,O
+kusta,b-penyakit
+ ,O
+pada,O
+ ,O
+tahun,O
+ ,O
+2000,O
+.,O
+ ,O
+Prevalensi,O
+ ,O
+kusta,b-penyakit
+ ,O
+tahun,O
+ ,O
+2015,O
+ ,O
+mencapai,O
+ ,O
+"0,78",O
+ ,O
+per,O
+ ,O
+10,O
+ ,O
+penduduk,O
+.,O
+ ,O
+Status,O
+ ,O
+eliminasi,O
+ ,O
+tercapai,O
+ ,O
+jika,O
+ ,O
+prevalensi,O
+ ,O
+kasus,O
+ ,O
+kurang,O
+ ,O
+dari,O
+ ,O
+1,O
+ ,O
+per,O
+ ,O
+10,O
+ ,O
+penduduk,O
+.,O
+ ,O
+Pada,O
+ ,O
+tahun,O
+ ,O
+yang,O
+ ,O
+sama,O
+",",O
+ ,O
+jumlah,O
+ ,O
+pengidap,O
+ ,O
+kusta,b-penyakit
+ ,O
+20.16,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Tahun,O
+ ,O
+2013,O
+",",O
+ ,O
+sebanyak,O
+ ,O
+20,O
+ ,O
+provinsi,O
+ ,O
+sudah,O
+ ,O
+eliminasi,O
+ ,O
+kusta,O
+.,O
+ ,O
+Rencana,O
+ ,O
+Pembangunan,O
+ ,O
+Jangka,O
+ ,O
+Menengah,O
+ ,O
+Nasional,O
+ ,O
+2015,O
+-,O
+2019,O
+ ,O
+menargetkan,O
+",",O
+ ,O
+tahun,O
+ ,O
+2019,O
+ ,O
+semua,O
+ ,O
+provinsi,O
+ ,O
+mencapai,O
+ ,O
+status,O
+ ,O
+eliminasi,O
+.,O
+ ,O
+Saat,O
+ ,O
+ini,O
+",",O
+ ,O
+Aceh,b-lokasi
+ ,O
+dan,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+dievaluasi,O
+ ,O
+apakah,O
+ ,O
+berhasil,O
+ ,O
+mencapai,O
+ ,O
+status,O
+ ,O
+eliminasi,O
+ ,O
+atau,O
+ ,O
+tidak,O
+.,O
+ ,O
+Adapun,O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Tenggara,e-lokasi
+",",O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Utara,e-lokasi
+",",O
+ ,O
+dan,O
+ ,O
+Gorontalo,b-lokasi
+ ,O
+ditargetkan,O
+ ,O
+berstatus,O
+ ,O
+eliminasi,O
+.,O
+ ,O
+Di,O
+ ,O
+tengah,O
+ ,O
+upaya,O
+ ,O
+mencapai,O
+ ,O
+status,O
+ ,O
+eliminasi,O
+",",O
+ ,O
+jumlah,O
+ ,O
+kasus,O
+ ,O
+kusta,b-penyakit
+ ,O
+baru,O
+ ,O
+justru,O
+ ,O
+mengkhawatirkan,O
+.,O
+ ,O
+Tahun,O
+ ,O
+2015,O
+",",O
+ ,O
+angka,O
+ ,O
+penemuan,O
+ ,O
+kasus,O
+ ,O
+baru,O
+ ,O
+mencapai,O
+ ,O
+"6,73",b-korban
+ ,O
+per,O
+ ,O
+100,i-korban
+ ,O
+penduduk,e-korban
+.,O
+ ,O
+Kasus,O
+ ,O
+baru,O
+ ,O
+di,O
+ ,O
+Indonesia,O
+ ,O
+tercatat,O
+ ,O
+17.202,b-korban
+ ,O
+kasus,e-korban
+.,O
+ ,O
+``,O
+Kasus,O
+ ,O
+baru,O
+ ,O
+muncul,O
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+yang,O
+ ,O
+belum,O
+ ,O
+eliminasi,O
+ ,O
+dan,O
+ ,O
+daerah,O
+ ,O
+yang,O
+ ,O
+sudah,O
+ ,O
+eliminasi,O
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Subuh,O
+.,O
+ ,O
+Kasus,O
+ ,O
+kusta,b-penyakit
+ ,O
+baru,O
+ ,O
+amat,O
+ ,O
+mungkin,O
+ ,O
+muncul,O
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+yang,O
+ ,O
+belum,O
+ ,O
+berstatus,O
+ ,O
+eliminasi,O
+.,O
+ ,O
+Apalagi,O
+",",O
+ ,O
+kondisi,O
+ ,O
+tiap,O
+ ,O
+kabupaten/kota,O
+ ,O
+di,O
+ ,O
+provinsi,O
+ ,O
+yang,O
+ ,O
+sudah,O
+ ,O
+eliminasi,O
+ ,O
+tidak,O
+ ,O
+sama,O
+.,O
+ ,O
+Di,O
+ ,O
+daerah,O
+ ,O
+berstatus,O
+ ,O
+eliminasi,O
+ ,O
+pun,O
+ ,O
+ada,O
+ ,O
+potensi,O
+ ,O
+kasus,O
+ ,O
+baru,O
+.,O
+ ,O
+Status,O
+ ,O
+eliminasi,O
+ ,O
+tak,O
+ ,O
+berarti,O
+ ,O
+nol,O
+ ,O
+kasus,O
+",",O
+ ,O
+tetapi,O
+ ,O
+kasus,O
+ ,O
+sedikit,O
+ ,O
+dan,O
+ ,O
+terkontrol,O
+",",O
+ ,O
+kurang,O
+ ,O
+dari,O
+ ,O
+1,b-korban
+ ,O
+kasus,e-korban
+ ,O
+per,O
+ ,O
+10,O
+ ,O
+penduduk,O
+.,O
+ ,O
+Kusta,b-penyakit
+ ,O
+adalah,O
+ ,O
+penyakit,O
+ ,O
+menular,O
+ ,O
+akibat,O
+ ,O
+bakteri,O
+ ,O
+Mycobacterium,O
+ ,O
+leprae,O
+.,O
+ ,O
+Kusta,b-penyakit
+ ,O
+bukan,O
+ ,O
+penyakit,O
+ ,O
+akibat,O
+ ,O
+keturunan,O
+ ,O
+ataupun,O
+ ,O
+makanan,O
+.,O
+ ,O
+Kuman,O
+ ,O
+kusta,b-penyakit
+ ,O
+menyerang,O
+ ,O
+kulit,O
+ ,O
+dan,O
+ ,O
+saraf,O
+ ,O
+tepi,O
+.,O
+ ,O
+Jika,O
+ ,O
+terlambat,O
+ ,O
+diobati,O
+",",O
+ ,O
+pasien,O
+ ,O
+bisa,O
+ ,O
+cacat,O
+ ,O
+permanen,O
+.,O
+ ,O
+Meski,O
+ ,O
+demikian,O
+",",O
+ ,O
+penyakit,O
+ ,O
+itu,O
+ ,O
+amat,O
+ ,O
+sulit,O
+ ,O
+menular,O
+.,O
+ ,O
+Ketua,O
+ ,O
+Kelompok,O
+ ,O
+Studi,O
+ ,O
+Morbus,O
+ ,O
+Hansen,O
+ ,O
+Perhimpunan,O
+ ,O
+Dokter,O
+ ,O
+Spesialis,O
+ ,O
+Kulit,O
+ ,O
+dan,O
+ ,O
+Kelamin,O
+ ,O
+Emmy,O
+ ,O
+S,O
+ ,O
+Sjamsoe,O
+ ,O
+mengatakan,O
+",",O
+ ,O
+hal,O
+ ,O
+paling,O
+ ,O
+mungkin,O
+ ,O
+dicapai,O
+ ,O
+dalam,O
+ ,O
+kusta,b-penyakit
+ ,O
+ialah,O
+ ,O
+eliminasi,O
+",",O
+ ,O
+bukan,O
+ ,O
+eradikasi,O
+ ,O
+atau,O
+ ,O
+menghilangkan,O
+ ,O
+kasusnya,O
+.,O
+ ,O
+Masa,O
+ ,O
+inkubasi,O
+ ,O
+bakteri,O
+ ,O
+kusta,b-penyakit
+ ,O
+ialah,O
+ ,O
+40,O
+ ,O
+hari,O
+ ,O
+sampai,O
+ ,O
+40,O
+ ,O
+tahun,O
+.,O
+ ,O
+(,O
+ADH,O
+),O
+ ,O
+Versi,O
+ ,O
+cetak,O
+ ,O
+artikel,O
+ ,O
+ini,O
+ ,O
+terbit,O
+ ,O
+di,O
+ ,O
+harian,O
+ ,O
+Kompas,O
+ ,O
+edisi,O
+ ,O
+30,b-waktu
+ ,O
+Januari,i-waktu
+ ,O
+2017,e-waktu
+",",O
+ ,O
+di,O
+ ,O
+halaman,O
+ ,O
+13,O
+ ,O
+dengan,O
+ ,O
+judul,O
+ ,O
+``,O
+Kasus,O
+ ,O
+Baru,O
+ ,O
+Kusta,b-penyakit
+ ,O
+Mencemaskan,O
+'',O
+.,O
+BANGKALAN,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Sebanyak,O
+ ,O
+227,b-korban
+ ,O
+warga,e-korban
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bangkalan,e-lokasi
+",",O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+",",O
+ ,O
+pada,O
+ ,O
+semester,O
+ ,O
+pertama,O
+ ,O
+2016,O
+ ,O
+terdata,O
+ ,O
+menderita,O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+dan,O
+ ,O
+menjadi,O
+ ,O
+perhatian,O
+ ,O
+serius,O
+ ,O
+pemkab,O
+ ,O
+setempat,O
+.,O
+ ,O
+Kasi,O
+ ,O
+Pemberantasan,O
+ ,O
+Penyakit,O
+ ,O
+Menular,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+(,O
+Dinkes,O
+),O
+ ,O
+Bangkalan,b-lokasi
+",",O
+ ,O
+Mariamah,O
+ ,O
+di,O
+ ,O
+Bangkalan,b-lokasi
+",",O
+ ,O
+Sabtu,O
+ ,O
+(,O
+20/8/2016,b-waktu
+),O
+ ,O
+mengatakan,O
+",",O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+yang,O
+ ,O
+mencapai,O
+ ,O
+227,b-korban
+ ,O
+orang,e-korban
+ ,O
+itu,O
+",",O
+ ,O
+menempatkan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bangkalan,e-lokasi
+ ,O
+sebagai,O
+ ,O
+daerah,O
+ ,O
+dengan,O
+ ,O
+penderita,O
+ ,O
+terbanyak,O
+ ,O
+ketiga,O
+ ,O
+di,O
+ ,O
+Jatim,O
+",",O
+ ,O
+setelah,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sampang,e-lokasi
+ ,O
+dan,O
+ ,O
+Sumenep,b-lokasi
+.,O
+ ,O
+``,O
+Kalau,O
+ ,O
+dibandingkan,O
+ ,O
+dengan,O
+ ,O
+tahun,O
+ ,O
+2015,O
+",",O
+ ,O
+angka,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+ini,O
+ ,O
+menurun,O
+.,O
+ ,O
+Tahun,O
+ ,O
+lalu,O
+",",O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+mencapai,O
+ ,O
+310,b-korban
+ ,O
+orang,e-korban
+.,O
+ ,O
+Ini,O
+ ,O
+menjadi,O
+ ,O
+tugas,O
+ ,O
+kita,O
+ ,O
+semua,O
+ ,O
+untuk,O
+ ,O
+menekan,O
+ ,O
+angka,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+ini,O
+",",O
+ ,O
+khususnya,O
+ ,O
+terkait,O
+ ,O
+kesadaran,O
+ ,O
+hidup,O
+ ,O
+masyarakat,O
+ ,O
+untuk,O
+ ,O
+berperilaku,O
+ ,O
+hidup,O
+ ,O
+sehat,O
+",",O
+'',O
+ ,O
+katanya,O
+.,O
+ ,O
+Ia,O
+ ,O
+menjelakan,O
+",",O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+itu,O
+ ,O
+terjadi,O
+ ,O
+karena,O
+ ,O
+kurangnya,O
+ ,O
+menjaga,O
+ ,O
+kebersihan,O
+ ,O
+dan,O
+ ,O
+jenis,O
+ ,O
+penyakit,O
+ ,O
+itu,O
+ ,O
+tergolong,O
+ ,O
+penyakit,O
+ ,O
+kronis,O
+.,O
+ ,O
+Gejala,O
+ ,O
+awal,O
+ ,O
+ditandai,O
+ ,O
+dengan,O
+ ,O
+munculnya,O
+ ,O
+bintik,O
+ ,O
+putih,O
+ ,O
+serta,O
+ ,O
+terdapat,O
+ ,O
+batas,O
+ ,O
+hitam,O
+ ,O
+yang,O
+ ,O
+mengelilingi,O
+ ,O
+bintik,O
+ ,O
+putih,O
+ ,O
+tersebut,O
+.,O
+ ,O
+Kusta,b-penyakit
+ ,O
+dapat,O
+ ,O
+menyerang,O
+ ,O
+siapa,O
+ ,O
+pun,O
+",",O
+ ,O
+baik,O
+ ,O
+laki,O
+-,O
+laki,O
+ ,O
+atau,O
+ ,O
+perempuan,O
+",",O
+ ,O
+anak,O
+ ,O
+kecil,O
+ ,O
+atau,O
+ ,O
+orang,O
+ ,O
+dewasa,O
+.,O
+ ,O
+Jika,O
+ ,O
+di,O
+ ,O
+suatu,O
+ ,O
+kawasan,O
+ ,O
+terdapat,O
+ ,O
+bakteri,O
+ ,O
+penyebab,O
+ ,O
+kusta,b-penyakit
+ ,O
+dan,O
+ ,O
+orang,O
+ ,O
+itu,O
+ ,O
+terpapar,O
+ ,O
+bakteri,O
+ ,O
+dalam,O
+ ,O
+jumlah,O
+ ,O
+cukup,O
+ ,O
+banyak,O
+ ,O
+serta,O
+ ,O
+dalam,O
+ ,O
+jangka,O
+ ,O
+panjang,O
+",",O
+ ,O
+kemungkinan,O
+ ,O
+besar,O
+ ,O
+akan,O
+ ,O
+terserang,O
+.,O
+ ,O
+Sebenarnya,O
+",",O
+ ,O
+kata,O
+ ,O
+Mariamah,O
+",",O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+ini,O
+ ,O
+tersebar,O
+ ,O
+merata,O
+ ,O
+di,O
+ ,O
+seluruh,O
+ ,O
+belahan,O
+ ,O
+dunia,O
+",",O
+ ,O
+namun,O
+ ,O
+asal,O
+ ,O
+mulanya,O
+ ,O
+dari,O
+ ,O
+Afrika,b-lokasi
+ ,O
+dan,O
+ ,O
+Asia,b-lokasi
+ ,O
+Tengah,e-lokasi
+",",O
+ ,O
+kemudian,O
+ ,O
+menyebar,O
+ ,O
+ke,O
+ ,O
+seluruh,O
+ ,O
+dunia,O
+ ,O
+dengan,O
+ ,O
+adanya,O
+ ,O
+perang,O
+",",O
+ ,O
+penjajahan,O
+",",O
+ ,O
+perdagangan,O
+ ,O
+antarbenua,O
+ ,O
+dan,O
+ ,O
+penyebaran,O
+ ,O
+agama,O
+.,O
+ ,O
+``,O
+Yang,O
+ ,O
+perlu,O
+ ,O
+dipahami,O
+ ,O
+masyarakat,O
+",",O
+ ,O
+kusta,b-penyakit
+ ,O
+ini,O
+ ,O
+bukan,O
+ ,O
+penyakit,O
+ ,O
+keturunan,O
+ ,O
+atau,O
+ ,O
+penyakit,O
+ ,O
+kutukan,O
+",",O
+ ,O
+tapi,O
+ ,O
+penyakit,O
+ ,O
+kulit,O
+ ,O
+yang,O
+ ,O
+disebabkan,O
+ ,O
+oleh,O
+ ,O
+serangan,O
+ ,O
+bakteri,O
+ ,O
+mycobacterium,O
+ ,O
+leprae,O
+",",O
+'',O
+ ,O
+urainya,O
+.,O
+TANGERANG,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+?,O
+ ,O
+Angka,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+masih,O
+ ,O
+cukup,O
+ ,O
+tinggi,O
+ ,O
+meski,O
+ ,O
+tahun,O
+ ,O
+2000,O
+ ,O
+lalu,O
+ ,O
+telah,O
+ ,O
+mencapai,O
+ ,O
+eliminasi,O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+tingkat,O
+ ,O
+nasional,O
+.,O
+ ,O
+Saat,O
+ ,O
+ini,O
+",",O
+ ,O
+masih,O
+ ,O
+terdapat,O
+ ,O
+banyak,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+14,O
+ ,O
+provinsi,O
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+.,O
+ ,O
+Salah,O
+ ,O
+satunya,O
+ ,O
+di,O
+ ,O
+wilayah,O
+ ,O
+Banten,b-lokasi
+.,O
+ ,O
+Kepala,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Banten,O
+ ,O
+Sigit,O
+ ,O
+Wardoyo,O
+ ,O
+mengungkapkan,O
+",",O
+ ,O
+angka,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Banten,b-lokasi
+ ,O
+memang,O
+ ,O
+cukup,O
+ ,O
+tinggi,O
+ ,O
+dibanding,O
+ ,O
+daerah,O
+ ,O
+lain,O
+",",O
+ ,O
+yaitu,O
+ ,O
+882,b-korban
+ ,O
+kasus,e-korban
+ ,O
+pada,O
+ ,O
+tahun,O
+ ,O
+2014,O
+.,O
+ ,O
+Namun,O
+",",O
+ ,O
+angka,O
+ ,O
+itu,O
+ ,O
+sudah,O
+ ,O
+mengalami,O
+ ,O
+penurunanan,O
+ ,O
+dibanding,O
+ ,O
+tahun,O
+ ,O
+2013,O
+",",O
+ ,O
+yaitu,O
+ ,O
+1.061,b-korban
+ ,O
+kasus,e-korban
+.,O
+ ,O
+Banten,b-lokasi
+ ,O
+pun,O
+ ,O
+tahun,O
+ ,O
+ini,O
+ ,O
+ditargetkan,O
+ ,O
+bebas,O
+ ,O
+kusta,b-penyakit
+.,O
+ ,O
+``,O
+Kami,O
+ ,O
+bertekad,O
+ ,O
+di,O
+ ,O
+tahun,O
+ ,O
+2015,O
+ ,O
+ini,O
+ ,O
+Banten,b-lokasi
+ ,O
+bisa,O
+ ,O
+mengeliminasi,O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+",",O
+?,O
+ ,O
+kata,O
+ ,O
+ujar,O
+ ,O
+Sigit,O
+ ,O
+di,O
+ ,O
+Rumah,O
+ ,O
+Sakit,O
+ ,O
+Kusta,O
+ ,O
+Sitanala,O
+",",O
+ ,O
+Tangerang,b-lokasi
+",",O
+ ,O
+Rabu,O
+ ,O
+(,O
+25/2/2015,b-waktu
+),O
+.,O
+ ,O
+Menurut,O
+ ,O
+Sigit,O
+",",O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+umumnya,O
+ ,O
+bersembunyi,O
+ ,O
+sehingga,O
+ ,O
+sulit,O
+ ,O
+ditemukan,O
+ ,O
+petugas,O
+ ,O
+kesehatan,O
+.,O
+ ,O
+Akhirnya,O
+ ,O
+mereka,O
+ ,O
+enggan,O
+ ,O
+berobat,O
+.,O
+ ,O
+Hal,O
+ ,O
+itu,O
+ ,O
+karena,O
+ ,O
+masih,O
+ ,O
+adanya,O
+ ,O
+stigma,O
+ ,O
+dan,O
+ ,O
+diskriminasi,O
+ ,O
+terhadap,O
+ ,O
+mereka,O
+.,O
+ ,O
+Padahal,O
+",",O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+penularannya,O
+ ,O
+tidak,O
+ ,O
+mudah,O
+ ,O
+dan,O
+ ,O
+bisa,O
+ ,O
+disembuhkan,O
+ ,O
+?,O
+Penyakit,O
+ ,O
+ini,O
+ ,O
+bisa,O
+ ,O
+sembuh,O
+ ,O
+dan,O
+ ,O
+akhirnya,O
+ ,O
+tak,O
+ ,O
+lagi,O
+ ,O
+menular,O
+.,O
+ ,O
+Ini,O
+ ,O
+yang,O
+ ,O
+perlu,O
+ ,O
+kita,O
+ ,O
+sosialisasikan,O
+ ,O
+lebih,O
+ ,O
+luas,O
+ ,O
+lagi,O
+ ,O
+ke,O
+ ,O
+masyarakat,O
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Sigit,O
+.,O
+ ,O
+Saat,O
+ ,O
+ini,O
+",",O
+ ,O
+sejumlah,O
+ ,O
+20,O
+ ,O
+dari,O
+ ,O
+34,O
+ ,O
+Provinsi,O
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+sudah,O
+ ,O
+berhasil,O
+ ,O
+eliminasi,O
+ ,O
+penyakit,O
+ ,O
+kusta,b-penyakit
+.,O
+ ,O
+Setelah,O
+ ,O
+banten,b-lokasi
+",",O
+ ,O
+tahun,O
+ ,O
+2016,O
+ ,O
+ditargetkan,O
+ ,O
+eliminasi,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Tengah,e-lokasi
+ ,O
+dan,O
+ ,O
+Aceh,b-lokasi
+.,O
+ ,O
+Kemudian,O
+",",O
+ ,O
+tahun,O
+ ,O
+2017,O
+ ,O
+di,O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Tenggara,e-lokasi
+",",O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+",",O
+ ,O
+dan,O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Selatan,e-lokasi
+.,O
+ ,O
+Selanjutnya,O
+ ,O
+target,O
+ ,O
+eliminasi,O
+ ,O
+tahun,O
+ ,O
+2018,O
+",",O
+ ,O
+yaitu,O
+ ,O
+di,O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Barat,e-lokasi
+",",O
+ ,O
+Sulawesi,b-lokasi
+ ,O
+Utara,e-lokasi
+",",O
+ ,O
+dan,O
+ ,O
+Gorontalo,b-lokasi
+ ,O
+serta,O
+ ,O
+tahun,O
+ ,O
+2019,O
+ ,O
+di,O
+ ,O
+Maluku,b-lokasi
+",",O
+ ,O
+Maluku,b-lokasi
+ ,O
+Utara,e-lokasi
+",",O
+ ,O
+Kalimantan,b-lokasi
+ ,O
+Utara,e-lokasi
+",",O
+ ,O
+Papua,b-lokasi
+",",O
+ ,O
+dan,O
+ ,O
+Papua,b-lokasi
+ ,O
+Barat,e-lokasi
+.,O
+ ,O
+Di,O
+ ,O
+Indonesia,b-lokasi
+",",O
+ ,O
+kasus,O
+ ,O
+baru,O
+ ,O
+penderita,O
+ ,O
+kusta,O
+ ,O
+masih,O
+ ,O
+cukup,O
+ ,O
+tinggi,O
+",",O
+ ,O
+yaitu,O
+ ,O
+16.856,b-korban
+ ,O
+kasus,e-korban
+ ,O
+dan,O
+ ,O
+jumlah,O
+ ,O
+kecacatan,O
+ ,O
+tingkat,O
+ ,O
+dua,O
+ ,O
+di,O
+ ,O
+antara,O
+ ,O
+penderita,O
+ ,O
+baru,O
+ ,O
+sebanyak,O
+ ,O
+"9,86",b-korban
+ ,O
+persen,e-korban
+.,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+pun,O
+ ,O
+menempati,O
+ ,O
+di,O
+ ,O
+peringkat,O
+ ,O
+ketiga,O
+ ,O
+dunia,O
+ ,O
+dengan,O
+ ,O
+kasus,O
+ ,O
+baru,O
+ ,O
+kusta,b-penyakit
+ ,O
+terbanyak,O
+ ,O
+setelah,O
+ ,O
+India,b-lokasi
+ ,O
+(,O
+134.752,b-korban
+ ,O
+kasus,e-korban
+),O
+ ,O
+dan,O
+ ,O
+Brasil,b-lokasi
+ ,O
+(,O
+33.303,b-korban
+ ,O
+kasus,e-korban
+),O
+.,O
+SURABAYA,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+-,O
+ ,O
+Jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,O
+ ,O
+terbesar,O
+ ,O
+di,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+Pulau,b-lokasi
+ ,O
+Madura,e-lokasi
+.,O
+ ,O
+Sebanyak,O
+ ,O
+"35,2",b-korban
+ ,O
+persen,i-korban
+ ,O
+penderita,e-korban
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Jatim,b-lokasi
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+Pulau,b-lokasi
+ ,O
+Madura,e-lokasi
+ ,O
+atau,O
+ ,O
+"8,9",b-korban
+ ,O
+persen,e-korban
+ ,O
+dari,O
+ ,O
+total,O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+.,O
+ ,O
+Mereka,O
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+Kabupaten,b-korban
+ ,O
+Sampang,e-korban
+ ,O
+dan,O
+ ,O
+Sumenep,b-korban
+",",O
+ ,O
+yaitu,O
+ ,O
+sebesar,O
+ ,O
+"22,5",b-korban
+ ,O
+persen,e-korban
+.,O
+ ,O
+Data,O
+ ,O
+terbaru,O
+ ,O
+tahun,O
+ ,O
+2014,O
+",",O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sumenep,e-lokasi
+ ,O
+sebanyak,O
+ ,O
+516,b-korban
+ ,O
+pasien,e-korban
+",",O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Sampang,e-lokasi
+ ,O
+365,b-korban
+ ,O
+pasien,e-korban
+",",O
+ ,O
+dan,O
+ ,O
+Kabupaten,b-lokasi
+ ,O
+Bangkalan,e-lokasi
+ ,O
+249,b-korban
+ ,O
+pasien,e-korban
+.,O
+ ,O
+Hingga,O
+ ,O
+September,O
+ ,O
+2014,O
+",",O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+yang,O
+ ,O
+bisa,O
+ ,O
+diobati,O
+ ,O
+sebanyak,O
+ ,O
+4.047,b-korban
+ ,O
+orang,e-korban
+ ,O
+dengan,O
+ ,O
+angka,O
+ ,O
+prevalensi,O
+ ,O
+"1,05",O
+ ,O
+per,O
+ ,O
+10,O
+ ,O
+penduduk,O
+.,O
+ ,O
+``,O
+Diharapkan,O
+ ,O
+pada,O
+ ,O
+tahun,O
+ ,O
+2017,O
+ ,O
+mendatang,O
+",",O
+ ,O
+angka,O
+ ,O
+prevalensi,O
+ ,O
+kurang,O
+ ,O
+dari,O
+ ,O
+1/,O
+ ,O
+10,O
+ ,O
+penduduk,O
+ ,O
+atau,O
+ ,O
+jumlah,O
+ ,O
+pasien,O
+ ,O
+yang,O
+ ,O
+diobati,O
+ ,O
+kurang,O
+ ,O
+dari,O
+ ,O
+3.8,b-korban
+ ,O
+orang,e-korban
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Kepala,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Provinsi,O
+ ,O
+Jatim,b-lokasi
+ ,O
+Harsono,O
+",",O
+ ,O
+Selasa,O
+ ,O
+(,O
+27/1/2015,b-waktu
+),O
+.,O
+ ,O
+Harsono,O
+ ,O
+mengaku,O
+ ,O
+belum,O
+ ,O
+paham,O
+ ,O
+mengapa,O
+ ,O
+kusta,b-penyakit
+ ,O
+tumbuh,O
+ ,O
+subur,O
+ ,O
+di,O
+ ,O
+Madura,b-lokasi
+.,O
+ ,O
+``,O
+Belum,O
+ ,O
+ada,O
+ ,O
+penelitian,O
+ ,O
+medis,O
+ ,O
+yang,O
+ ,O
+tegas,O
+ ,O
+menyebutkan,O
+ ,O
+mengapa,O
+ ,O
+kusta,b-penyakit
+ ,O
+tumbuh,O
+ ,O
+subur,O
+ ,O
+di,O
+ ,O
+daerah,O
+-,O
+daerah,O
+ ,O
+itu,O
+",",O
+'',O
+ ,O
+ujar,O
+ ,O
+Harsono,O
+.,O
+ ,O
+Di,O
+ ,O
+Jatim,b-lokasi
+",",O
+ ,O
+kata,O
+ ,O
+dia,O
+",",O
+ ,O
+ada,O
+ ,O
+dua,O
+ ,O
+rumah,O
+ ,O
+sakit,O
+ ,O
+kusta,b-penyakit
+ ,O
+yang,O
+ ,O
+dioperasikan,O
+ ,O
+pemerintah,O
+",",O
+ ,O
+yakni,O
+ ,O
+RS,O
+ ,O
+Kusta,b-penyakit
+ ,O
+Kediri,O
+ ,O
+dan,O
+ ,O
+RS,O
+ ,O
+Kusta,b-penyakit
+ ,O
+Sumberglagah,O
+ ,O
+di,O
+ ,O
+Kecamatan,b-lokasi
+ ,O
+Pacet,e-lokasi
+",",O
+ ,O
+Mojokerto,b-lokasi
+.,O
+ ,O
+Kedua,O
+ ,O
+rumah,O
+ ,O
+sakit,O
+ ,O
+itu,O
+ ,O
+merawat,O
+ ,O
+ratusan,O
+ ,O
+pasien,O
+ ,O
+kusta,b-penyakit
+ ,O
+dari,O
+ ,O
+berbagai,O
+ ,O
+daerah,O
+ ,O
+secara,O
+ ,O
+gratis,O
+.,O
+ ,O
+Biaya,O
+ ,O
+perawatan,O
+ ,O
+dan,O
+ ,O
+obat,O
+ ,O
+hingga,O
+ ,O
+sembuh,O
+ ,O
+total,O
+ ,O
+ditanggung,O
+ ,O
+pemerintah,O
+ ,O
+melalui,O
+ ,O
+Program,O
+ ,O
+Jaminan,O
+ ,O
+Kesehatan,O
+ ,O
+Daerah,O
+ ,O
+(,O
+Jamkesda,O
+),O
+",",O
+ ,O
+karena,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+sebagian,O
+ ,O
+besar,O
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+kalangan,O
+ ,O
+menengah,O
+ ,O
+ke,O
+ ,O
+bawah,O
+.,O
+ ,O
+Itu,O
+ ,O
+juga,O
+ ,O
+termasuk,O
+ ,O
+dengan,O
+ ,O
+biaya,O
+ ,O
+kaki,O
+ ,O
+palsu,O
+ ,O
+jika,O
+ ,O
+ada,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+yang,O
+ ,O
+terpaksa,O
+ ,O
+diamputasi,O
+.,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+tercatat,O
+ ,O
+menduduki,O
+ ,O
+peringkat,O
+ ,O
+ketiga,O
+ ,O
+dengan,O
+ ,O
+pasien,O
+ ,O
+kusta,b-penyakit
+ ,O
+terbanyak,O
+ ,O
+setelah,O
+ ,O
+Brazil,b-lokasi
+ ,O
+dan,O
+ ,O
+India,b-lokasi
+.,O
+ ,O
+Jumlah,O
+ ,O
+pasien,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+berdasarkan,O
+ ,O
+data,O
+ ,O
+terbaru,O
+ ,O
+tercatat,O
+ ,O
+sebanyak,O
+ ,O
+18.994,b-lokasi
+ ,O
+orang,e-lokasi
+.,O
+ ,O
+Dari,O
+ ,O
+jumlah,O
+ ,O
+itu,O
+",",O
+ ,O
+25,O
+ ,O
+persen,O
+ ,O
+penderita,O
+ ,O
+di,O
+ ,O
+antaranya,O
+ ,O
+berasal,O
+ ,O
+dari,O
+ ,O
+Jatim,b-lokasi
+.,O
+ ,O
+Jatim,b-lokasi
+ ,O
+masih,O
+ ,O
+menjadi,O
+ ,O
+penyumbang,O
+ ,O
+pasien,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+terbesar,O
+ ,O
+di,O
+ ,O
+Indonesia,b-lokasi
+ ,O
+dengan,O
+ ,O
+jumlah,O
+ ,O
+penderita,O
+ ,O
+sebanyak,O
+ ,O
+4.807,b-korban
+ ,O
+orang,e-korban
+.,O
+Di,O
+ ,O
+Jawa,b-lokasi
+ ,O
+Timur,e-lokasi
+",",O
+ ,O
+sampai,O
+ ,O
+hari,O
+ ,O
+ini,O
+ ,O
+tercatat,O
+ ,O
+ada,O
+ ,O
+4.293,b-korban
+ ,O
+penderita,e-korban
+ ,O
+kusta,b-penyakit
+ ,O
+dari,O
+ ,O
+berbagai,O
+ ,O
+tingkat,O
+ ,O
+keparahan,O
+.,O
+ ,O
+Dari,O
+ ,O
+jumlah,O
+ ,O
+itu,O
+",",O
+ ,O
+penderita,O
+ ,O
+yang,O
+ ,O
+sampai,O
+ ,O
+cacat,O
+ ,O
+seumur,O
+ ,O
+hidup,O
+ ,O
+tercatat,O
+ ,O
+sebanyak,O
+ ,O
+184,b-korban
+ ,O
+penderita,e-korban
+.,O
+ ,O
+Sementara,O
+ ,O
+penderita,O
+ ,O
+usia,O
+ ,O
+anak,O
+",",O
+ ,O
+tercatat,O
+ ,O
+sebanyak,O
+ ,O
+177,b-korban
+ ,O
+penderita,e-korban
+.,O
+ ,O
+Dari,O
+ ,O
+4.293,b-korban
+ ,O
+penderita,e-korban
+ ,O
+Kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Jatim,b-lokasi
+",",O
+ ,O
+sebanyak,O
+ ,O
+3.054,b-korban
+ ,O
+atau,i-korban
+ ,O
+71,i-korban
+ ,O
+persen,i-korban
+ ,O
+penderitanya,e-korban
+ ,O
+berada,O
+ ,O
+di,O
+ ,O
+wilayah,O
+ ,O
+Madura,b-lokasi
+",",O
+ ,O
+Tapal,b-lokasi
+ ,O
+Kuda,e-lokasi
+",",O
+ ,O
+dan,O
+ ,O
+Pantura,b-lokasi
+.,O
+ ,O
+``,O
+Belum,O
+ ,O
+ada,O
+ ,O
+penelitian,O
+ ,O
+medis,O
+ ,O
+yang,O
+ ,O
+tegas,O
+ ,O
+menyebutkan,O
+ ,O
+mengapa,O
+ ,O
+kusta,b-penyakit
+ ,O
+tumbuh,O
+ ,O
+subur,O
+ ,O
+di,O
+ ,O
+daerah,O
+ ,O
+daerah,O
+ ,O
+itu,O
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Kepala,O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Provinsi,O
+ ,O
+Jatim,b-lokasi
+",",O
+ ,O
+Harsono,O
+",",O
+ ,O
+dikonfirmasi,O
+ ,O
+terpisah,O
+.,O
+ ,O
+Fokus,O
+ ,O
+dia,O
+ ,O
+terkait,O
+ ,O
+penanganan,O
+ ,O
+kusta,b-penyakit
+",",O
+ ,O
+adalah,O
+ ,O
+bagaimana,O
+ ,O
+agar,O
+ ,O
+kusta,b-penyakit
+ ,O
+tidak,O
+ ,O
+menyerang,O
+ ,O
+usia,O
+ ,O
+anak,O
+ ,O
+dan,O
+ ,O
+menyebabkan,O
+ ,O
+cacat,O
+ ,O
+seumur,O
+ ,O
+hidup,O
+.,O
+ ,O
+Karena,O
+ ,O
+itu,O
+",",O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+gencar,O
+ ,O
+menurunkan,O
+ ,O
+tim,O
+ ,O
+juru,O
+ ,O
+kusta,b-penyakit
+",",O
+ ,O
+memburu,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+usia,O
+ ,O
+anak,O
+ ,O
+di,O
+ ,O
+lingkungan,O
+ ,O
+sekolah,O
+",",O
+ ,O
+khususnya,O
+ ,O
+di,O
+ ,O
+daerah,O
+-,O
+daerah,O
+ ,O
+miskin,O
+ ,O
+dan,O
+ ,O
+tertinggal,O
+.,O
+ ,O
+``,O
+Kalkulasi,O
+ ,O
+kami,O
+",",O
+ ,O
+semua,O
+ ,O
+penderita,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Jatim,b-lokasi
+ ,O
+habis,O
+ ,O
+ditangani,O
+ ,O
+hingga,O
+ ,O
+2017,O
+",",O
+ ,O
+dan,O
+ ,O
+tahun,O
+ ,O
+itu,O
+",",O
+ ,O
+Jatim,O
+ ,O
+kami,O
+ ,O
+upayakan,O
+ ,O
+bebas,O
+ ,O
+dari,O
+ ,O
+kusta,b-penyakit
+",",O
+'',O
+ ,O
+tegasnya,O
+.,O
+MEDAN,b-lokasi
+",",O
+ ,O
+KOMPAS.com,O
+ ,O
+?,O
+ ,O
+Diduga,O
+ ,O
+gara,O
+-,O
+gara,O
+ ,O
+aksi,O
+ ,O
+mengemis,O
+ ,O
+ke,O
+ ,O
+jalan,O
+ ,O
+yang,O
+ ,O
+dilakukan,O
+ ,O
+puluhan,O
+ ,O
+pengidap,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Kota,b-lokasi
+ ,O
+Medan,e-lokasi
+",",O
+ ,O
+Dinas,O
+ ,O
+Kesehatan,O
+ ,O
+Sumatera,b-lokasi
+ ,O
+Utara,e-lokasi
+ ,O
+mengusulkan,O
+ ,O
+anggaran,O
+ ,O
+sebesar,O
+ ,O
+Rp,O
+ ,O
+4,O
+ ,O
+miliar,O
+ ,O
+untuk,O
+ ,O
+makanan,O
+ ,O
+dan,O
+ ,O
+minuman,O
+ ,O
+pengidap,O
+ ,O
+kusta,b-penyakit
+ ,O
+di,O
+ ,O
+Dokumen,O
+ ,O
+Pelaksanaan,O
+ ,O
+Anggaran,O
+ ,O
+(,O
+DPA,O
+),O
+ ,O
+2013,O
+.,O
+ ,O
+``,O
+Pasien,O
+ ,O
+yang,O
+ ,O
+sudah,O
+ ,O
+sehat,O
+ ,O
+dan,O
+ ,O
+berkeluarga,O
+ ,O
+akan,O
+ ,O
+dipisahkan,O
+ ,O
+dan,O
+ ,O
+ditanggung,O
+ ,O
+Dinas,O
+ ,O
+Sosial,O
+.,O
+ ,O
+Rencana,O
+ ,O
+ini,O
+ ,O
+akan,O
+ ,O
+dilakukan,O
+ ,O
+pelan,O
+-,O
+pelan,O
+ ,O
+karena,O
+ ,O
+banyak,O
+ ,O
+mantan,O
+ ,O
+pengidap,O
+ ,O
+kusta,b-penyakit
+ ,O
+belum,O
+ ,O
+bisa,O
+ ,O
+diterima,O
+ ,O
+masyarakat,O
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+pelaksana,O
+ ,O
+tugas,O
+ ,O
+Kepala,O
+ ,O
+Rumah,O
+ ,O
+Sakit,O
+ ,O
+Kusta,b-penyakit
+ ,O
+Sicanang,O
+ ,O
+Medan,O
+",",O
+ ,O
+Jauhari,O
+ ,O
+Mars,O
+",",O
+ ,O
+Selasa,O
+ ,O
+(,O
+9/4/2013,b-waktu
+),O
+.,O
+ ,O
+Menurut,O
+ ,O
+dia,O
+",",O
+ ,O
+saat,O
+ ,O
+ini,O
+ ,O
+ada,O
+ ,O
+empat,O
+ ,O
+Unit,O
+ ,O
+Pelaksana,O
+ ,O
+Teknis,O
+ ,O
+Rumah,O
+ ,O
+Sakit,O
+ ,O
+Kusta,b-penyakit
+ ,O
+(,O
+UPT,O
+ ,O
+RSK,O
+),O
+ ,O
+di,O
+ ,O
+Sumut,O
+",",O
+ ,O
+yakni,O
+ ,O
+UPT,O
+ ,O
+RSK,O
+ ,O
+Sicanang,O
+",",O
+ ,O
+Lau,O
+ ,O
+Simomo,O
+",",O
+ ,O
+Hutasalem,O
+ ,O
+dan,O
+ ,O
+UPT,O
+ ,O
+RSK,O
+ ,O
+Belidan,O
+.,O
+ ,O
+Jumlah,O
+ ,O
+penderita,O
+ ,O
+kusta,O
+ ,O
+sudah,O
+ ,O
+berkurang,O
+",",O
+ ,O
+yang,O
+ ,O
+sedang,O
+ ,O
+diopname,O
+ ,O
+di,O
+ ,O
+UPT,O
+ ,O
+RSK,O
+ ,O
+Sicanang,b-lokasi
+ ,O
+sebanyak,O
+ ,O
+12,b-korban
+ ,O
+orang,e-korban
+ ,O
+dan,O
+ ,O
+696,O
+ ,O
+berstatus,O
+ ,O
+mantan,O
+ ,O
+pengidap,O
+.,O
+ ,O
+Begitu,O
+ ,O
+juga,O
+ ,O
+di,O
+ ,O
+RSK,O
+ ,O
+Lau,O
+ ,O
+Simomo,O
+ ,O
+dan,O
+ ,O
+Hutasalem,b-lokasi
+",",O
+ ,O
+sebanyak,O
+ ,O
+35,b-korban
+ ,O
+orang,e-korban
+ ,O
+sedang,O
+ ,O
+diopname,O
+ ,O
+dan,O
+ ,O
+344,b-korban
+ ,O
+orang,e-korban
+ ,O
+mantan,O
+ ,O
+pengidap,O
+.,O
+ ,O
+``,O
+Tim,O
+ ,O
+yang,O
+ ,O
+di,O
+ ,O
+bentuk,O
+ ,O
+untuk,O
+ ,O
+menangani,O
+ ,O
+masalah,O
+ ,O
+ini,O
+ ,O
+akan,O
+ ,O
+membahas,O
+ ,O
+langkah,O
+ ,O
+apa,O
+ ,O
+yang,O
+ ,O
+harus,O
+ ,O
+dilakukan,O
+ ,O
+kepada,O
+ ,O
+mantan,O
+ ,O
+pengidap,O
+ ,O
+sehingga,O
+ ,O
+mereka,O
+ ,O
+mampu,O
+ ,O
+membiayai,O
+ ,O
+diri,O
+ ,O
+sendiri,O
+ ,O
+dan,O
+ ,O
+tidak,O
+ ,O
+menjadi,O
+ ,O
+pengemis,O
+",",O
+'',O
+ ,O
+kata,O
+ ,O
+Jauhari,O
+.,O

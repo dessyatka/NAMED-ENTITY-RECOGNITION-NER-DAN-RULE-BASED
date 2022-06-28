@@ -1,0 +1,14 @@
+{% include "header.html" %}
+      <div class="search-container">
+        {% if marker_count == 0 %}
+          No marker attached..
+        {% endif %}
+        {% if visualize == 1 %}
+          {{ sndmap.html }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+<script src="{{ url_for('static', filename='jquery.min.js')}}"></script>
+{% include "footer.html" %}
